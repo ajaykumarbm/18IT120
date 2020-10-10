@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div style="background-color:black;color:white;padding:10px;">
+<p>Blog  About Me  Contact</p>
+</div>
+<div style="background-color:pink;color:white;padding:50px;">
+<h1 style="text-align:center;">Make Some Noise</h1>
+<p style="text-align:center;">PR Blog by sophie Miller</p>
+</div>
+<p>all post</p>
+<img src="wt.jpg" width="800" height="500">
+<p>Admin<br> Jul 29 . 1 min</p>
+<a href="https://www.wix.com/website-template/view/html/1349?siteId=3aaf7117-9552-4dff-b30e-43695b83a63b&metaSiteId=22af7001-7f99-4814-9373-a98aa0f24010&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fblog%2Fnews-business&tpClick=view_button">4 great PR tool for industry newcomers</a>
+<p> Create a blog post subtitle that summarizes your post in few short, punchy sentences your<br>audience to continue reading wel...</p>
+<p>105 views    write a comment</p>
+<img src="wta.jpg" width="800" height="500">
+<p>Admin<br> Jul 29 . 2 min</p>
+<a href="https://www.wix.com/website-template/view/html/1349?siteId=3aaf7117-9552-4dff-b30e-43695b83a63b&metaSiteId=22af7001-7f99-4814-9373-a98aa0f24010&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fblog%2Fnews-business&tpClick=view_button">5 unusual ways to kick off the weekly staff meeting</a>
+<p> Create a blog post subtitle that summarizes your post in few short, punchy sentences your<br>audience to continue reading wel...</p>
+<p>39 views    write a comment</p>
+<img src="wtb.jpg" width="800" height="500">
+<p>Admin<br> Jul 29 . 1 min</p>
+<a href="https://www.wix.com/website-temp">10 things you should nerver say in a job interview</a>
+<p> Create a blog post subtitle that summarizes your post in few short, punchy sentences your<br>audience to continue reading wel...</p>
+<p>33 views    write a comment</p>
+<img src="wtc.jpg" width="800" height="500">
+<p>Admin<br> Jul 29 . 2 min</p>
+<a href="https://www.wix.com/website-template/view/html/1349?siteId=3aaf7117-9552-4dff-b30e-43695b83a63b&metaSiteId=22af7001-7f99-4814-9373-a98aa0f24010&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fblog%2Fnews-business&tpClick=view_button">10 things you should nerver say in a job interview</a>
+<p> Create a blog post subtitle that summarizes your post in few short, punchy sentences your<br>audience to continue reading wel...</p>
+<p>31 views    write a comment</p>
+<img src="wtd.jpg" width="800" height="500">
+<p>Admin<br> Jul 29 . 1 min</p>
+<a href="https://www.wix.com/website-template/view/html/1349?siteId=3aaf7117-9552-4dff-b30e-43695b83a63b&metaSiteId=22af7001-7f99-4814-9373-a98aa0f24010&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fblog%2Fnews-business&tpClick=view_button">How to prepare your client for a media blitz</a>
+<p> Create a blog post subtitle that summarizes your post in few short, punchy sentences your<br>audience to continue reading wel...</p>
+<p>11 views    write a comment</p>
+<img src="wte.jpg" width="800" height="500">
+<p>Admin<br> Jul 29 . 2 min</p>
+<a href="https://www.wix.com/website-template/view/html/1349?siteId=3aaf7117-9552-4dff-b30e-43695b83a63b&metaSiteId=22af7001-7f99-4814-9373-a98aa0f24010&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fblog%2Fnews-business&tpClick=view_button">10 things to remember when writing a press release</a>
+<p> Create a blog post subtitle that summarizes your post in few short, punchy sentences your<br>audience to continue reading wel...</p>
+<p>14 views    write a comment</p>
+<img src="wtf.jpg" width="800" height="500">
+<p>Admin<br> Jul 29 . 1 min</p>
+<a href="https://www.wix.com/website-template/view/html/1349?siteId=3aaf7117-9552-4dff-b30e-43695b83a63b&metaSiteId=22af7001-7f99-4814-9373-a98aa0f24010&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fblog%2Fnews-business&tpClick=view_button">Dealing with clients: the dos and don’ts</a>
+<p> Create a blog post subtitle that summarizes your post in few short, punchy sentences your<br>audience to continue reading wel...</p>
+<p>17 views    write a comment</p>
+<h2>Join our mailing list</h2>
+<p>Never miss an update</p>
+<div style="background-color:pink;color:white;padding:50px;">
+<input type="text" placeholder="Enter your email here*" name="uemail" required>
+<button type="submit">Subscribe now</button>
+</div>
+<p>© 2023 by Make Some Noise.
+
+Proudly created with Wix.com</p>
+</body>
+</html>
